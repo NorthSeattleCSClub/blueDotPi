@@ -49,4 +49,3 @@ while True:
 
 pause()
 GPIO.cleanup()
-
